@@ -23,7 +23,7 @@
   <img align="center" alt="Luci-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luci-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luci-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg">
-  <img align= "right" alt="Luci-gif" src>
+  <img align="right" alt="Luci-gif" width="100"  src= "fixing_watch.gif">
 </div>
 
 ##
