@@ -6,12 +6,9 @@
 - 😄 Pronouns: he/him  
 ##
 <div>
-<p float="left">
   <a href="https://github.com/LucianoALE-FS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoALE-FS&rank_icon=github&show_icons=true&hide=stars,prs,issues&theme=github_dark&hide_border=true" alt="LucianoALE-FS's GitHub stats"/>
-  </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoALE-FS&layout=compact&theme=github_dark" alt="Top Langs" />
-</p>
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,5 +24,11 @@
   <img align="center" alt="Luci-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luci-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg">
 </div>
+
 ##
-<div></div>
+ 
+<div>
+  <a href = "mailto:lucianoale.eng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luciano-alexandre-ferreira-sobrinho-2a5902215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/ferreiraluc_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
