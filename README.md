@@ -5,11 +5,13 @@
 - 📫 You can reach me at: lucianoale.eng@gmail.com  
 - 😄 Pronouns: he/him  
 ##
-<div>
+<div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://github.com/LucianoALE-FS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoALE-FS&card_width=300&rank_icon=github&show_icons=true&hide=stars,prs,issues&theme=github_dark&hide_border=true" alt="LucianoALE-FS's GitHub stats"/>
+  </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoALE-FS&layout=compact&theme=github_dark" alt="Top Langs" />
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luci-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
