@@ -7,7 +7,7 @@
 ##
 <div>
   <a href="https://github.com/LucianoALE-FS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoALE-FS&rank_icon=github&show_icons=true&hide=stars,prs,issues&theme=github_dark&hide_border=true" alt="LucianoALE-FS's GitHub stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoALE-FS&card_width=320&rank_icon=github&show_icons=true&hide=stars,prs,issues&theme=github_dark&hide_border=true" alt="LucianoALE-FS's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoALE-FS&layout=compact&theme=github_dark" alt="Top Langs" />
 </div>
 
