@@ -2,8 +2,6 @@
 
 - 🔭 I currently work in QA – Software Quality Assurance  
 - 🌱 Deepening my knowledge in Cypress – Studying to get the CTFL (Certified Tester Foundation Level) certificate  
-- 📫 You can reach me at: lucianoale.eng@gmail.com  
-- 😄 Pronouns: he/him  
 ##
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://github.com/LucianoALE-FS">
