@@ -1,5 +1,8 @@
 # 🚀 GitHub Snake Animation
 
+permissions:
+  contents: write
+
 name: 🐍 Snake Animation
 
 on:
