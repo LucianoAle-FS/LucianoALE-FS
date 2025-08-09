@@ -34,5 +34,5 @@
   <a href="https://www.instagram.com/ferreiraluc_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-##
-![Snake animation](https://github.com/LucianoALE-FS/LucianoALE-FS/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/LucianoALE-FS/LucianoALE-FS/output/github-contribution-grid-snake.svg)
+
