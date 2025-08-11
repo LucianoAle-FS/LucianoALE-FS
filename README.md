@@ -3,7 +3,7 @@
 - 🔭 I currently work in QA – Software Quality Assurance  
 - 🌱 Deepening my knowledge in Cypress – Studying to get the CTFL (Certified Tester Foundation Level) certificate  
 ##
-<div align = "center" style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://github.com/LucianoALE-FS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoALE-FS&card_width=300&rank_icon=github&show_icons=true&hide=stars,prs,issues&theme=github_dark&hide_border=true" alt="LucianoALE-FS's GitHub stats"/>
   </a>
